@@ -22,7 +22,7 @@ A delay of 1000 milliseconds between frames helps in visualizing the solving pro
 
 Visualization:
 
-![image](https://github.com/BOUKEHILMerouane/8-Puzzle-Solver-with-Heuristic-Search-Visualization/assets/86635426/5a73f701-a1c2-44c5-a02c-54534d840e8f)
+![Screenshot (7)](https://github.com/BOUKEHILMerouane/8-Puzzle-Solver-with-Heuristic-Search-Visualization/assets/86635426/e9fd9423-2250-458f-946a-b373d223e9ed)
 
 
 Acknowledgments:
